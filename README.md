@@ -41,8 +41,8 @@ Hex: 0x808080
 -
 -
 -
-## :zap: __-- [WHAT IS RGB?](https://en.wikipedia.org/wiki/RGB_color_model "-RGB - Wikipedia*")
-## :zap: __-- [WHAT IS CMYK?](https://en.wikipedia.org/wiki/CMYK_color_model "-CMYK - Wikipedia*")
-## :zap: __-- [WHAT IS HEX?](https://en.wikipedia.org/wiki/Hexadecimal "-HEX - Wikipedia*")
-## :zap: __-- [FORMULA SOURCE-1](https://www.rapidtables.com/convert/color/rgb-to-cmyk.html "-RGB-TO-CMYK - Rapidtables*")
-## :zap: __-- [FORMULA SOURCE-2](https://www.rapidtables.com/convert/color/cmyk-to-rgb.html "-CMYK-TO-RGB - Rapidtables*")
+## :zap: -- [WHAT IS RGB?](https://en.wikipedia.org/wiki/RGB_color_model "-RGB - Wikipedia*")
+## :zap: -- [WHAT IS CMYK?](https://en.wikipedia.org/wiki/CMYK_color_model "-CMYK - Wikipedia*")
+## :zap: -- [WHAT IS HEX?](https://en.wikipedia.org/wiki/Hexadecimal "-HEX - Wikipedia*")
+## :zap: -- [FORMULA SOURCE-1](https://www.rapidtables.com/convert/color/rgb-to-cmyk.html "-RGB-TO-CMYK - Rapidtables*")
+## :zap: -- [FORMULA SOURCE-2](https://www.rapidtables.com/convert/color/cmyk-to-rgb.html "-CMYK-TO-RGB - Rapidtables*")
