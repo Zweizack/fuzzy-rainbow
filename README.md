@@ -3,14 +3,14 @@
 -
 -
 ## { *Install* }
-```bash
+```
 $ git clone https://github.com/Zweizack/fuzzy-rainbow.git
 ```
 ## { *Examples* }
 
 #### RGB TO CMYK
 
-```bash
+```
 $ python3 rgb_to_cmyk.py
 ```
 ```go
@@ -20,7 +20,7 @@ RGB: 128 128 128
 
 #### CMYK TO RGB
 
-```bash
+```
 $ python3 cmyk_to_rgb.py
 ```
 ```go
@@ -29,7 +29,7 @@ CMYK: 0 0 0 50
 ```
 
 #### HEX TO RGB & CMYK
-```bash
+```
 $ python3 hex.py
 ```
 ```go
